@@ -1,2 +1,1 @@
-# intelligence-gamelet difficulty;;
-   
+لعبه ذكاء 
